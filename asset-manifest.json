@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://michaeladan.github.io/csb-lg4r74/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://michaeladan.github.io/csb-lg4r74/static/js/main.eeed0ae1.chunk.js",
+    "main.js.map": "https://michaeladan.github.io/csb-lg4r74/static/js/main.eeed0ae1.chunk.js.map",
+    "runtime-main.js": "https://michaeladan.github.io/csb-lg4r74/static/js/runtime-main.7271ba25.js",
+    "runtime-main.js.map": "https://michaeladan.github.io/csb-lg4r74/static/js/runtime-main.7271ba25.js.map",
+    "static/js/2.46071f52.chunk.js": "https://michaeladan.github.io/csb-lg4r74/static/js/2.46071f52.chunk.js",
+    "static/js/2.46071f52.chunk.js.map": "https://michaeladan.github.io/csb-lg4r74/static/js/2.46071f52.chunk.js.map",
+    "index.html": "https://michaeladan.github.io/csb-lg4r74/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://michaeladan.github.io/csb-lg4r74/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.46071f52.chunk.js.LICENSE.txt": "https://michaeladan.github.io/csb-lg4r74/static/js/2.46071f52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7271ba25.js",
+    "static/js/2.46071f52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.eeed0ae1.chunk.js"
+  ]
+}
